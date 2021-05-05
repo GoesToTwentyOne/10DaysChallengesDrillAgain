@@ -9,6 +9,6 @@ func main() {
 
 }
 func goes(i int) {
-	i = 2
+	// i = 2
 	fmt.Println(i)
 }
